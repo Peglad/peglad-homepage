@@ -1,0 +1,53 @@
+{
+  "footerLogo": "/assets/images/logo-footer.png",
+
+  "contactsHeading": "İletişim Bilgileri",
+  "contactsInfo":[
+    {
+      "link":"https://maps.app.goo.gl/qnudV6Ka6TU44dvS9",
+      "text":"Cemalpaşa Mah. Gazipaşa Blv. Martı Apt. Kat:5 No:10 SEYHAN/ADANA"
+    },
+    {
+      "link":"tel:+905535412008",
+      "text":"+905535412008"
+    },
+    {
+      "link":"mailto:info@peglad.com",
+      "text":"info@peglad.com"
+    }
+  ],
+
+  "siteMapHeading":"Site Haritası",
+  "siteMap":[
+    {
+      "link":"about",
+      "text":"Hakkında"
+    },
+    {
+      "link":"portfolio",
+      "text":"Projeler"
+    },
+    {
+      "link":"blog",
+      "text":"Blog"
+    }
+  ],
+
+  "socialHeading":"Sosyal Medya",
+  "socialMedia":[
+    {
+      "link":"https://www.instagram.com/pegladmedya",
+      "text":"Instagram"
+    },
+    {
+      "link":"https://twitter.com/pegladmedya",
+      "text":"Twitter"
+    }
+  ],
+  
+  "brandHeading":"Markalara sundularımız:",
+  "brandMotto":["Web tasarım hizmetleri","Mobil uygulama hizmetleri", "Yapay zeka uygulamaları"],
+
+  "back2topIcon":"/assets/images/to-top.svg",
+  "customerComment":"Başa dönmek istiyorum"
+}

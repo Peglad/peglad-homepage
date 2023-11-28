@@ -1,0 +1,21 @@
+{
+  "title": "Başarımızın sırrı iş ortaklarımızdır",
+  "achievements":[
+    {
+      "title": "Mutlu Müşteriler",
+      "counter": "20"
+    },
+    {
+      "title": "Tamamlanan Projeler",
+      "counter": "12"
+    },
+    {
+      "title": "İçilen Kahve",
+      "counter": "58"
+    },
+    {
+      "title": "Telefon Görüşmeleri",
+      "counter": "72"
+    }
+  ]
+}
