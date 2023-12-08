@@ -1,7 +1,7 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "Aynen Kanka, Hallederiz"
+  subTitle: "Geleceğe Doğru"
   title:
     firstPara: "PEGLAD"
     secondPara: "Büyük Fikirler İçin Yanınızdayız"

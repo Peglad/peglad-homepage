@@ -1,10 +1,10 @@
 ---
 layout: "layouts/blog.njk"
-title: "Roxo Blog"
-des: "By fusing strategy & design we help our partners build their brands, drive business, & stand out from the noise in saturated markets! Follow our blog for the latest case studies and projects."
+title: "Peglad Blog"
+des: "Strateji ve tasarımı birleştirerek ortaklarımıza markalarını oluşturmalarında, işlerini büyütmelerinde ve doymuş pazarlarda gürültüden sıyrılmalarında yardımcı oluyoruz! En son vaka çalışmaları ve projeler için blogumuzu takip edin."
 pagination:
   data: collections.blogpost
-  size: 3
+  size: 4
   alias: posts
 ---
 

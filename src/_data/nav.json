@@ -1,6 +1,11 @@
 {
   "navLogo":"/assets/images/logo.png",
-  "navLinks":["home","about","portfolio","blog"],
+  "navLinks":[
+    {"link":"home", "text":"Anasayfa"},
+    {"link":"about", "text":"Hakkımızda"},
+    {"link":"portfolio", "text":"Portfolyo"},
+    {"link":"blog", "text":"Blog"}
+  ],
   "navBtnLink":"contact",
-  "navBtnText":"Get in touch"
+  "navBtnText":"Bize Ulaşın"
 }
