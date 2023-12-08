@@ -1,12 +1,12 @@
 {
-  "title": "OPINION FROM REAL PEOPLE",
-  "des": "What clients says about our services.",
+  "title": "Hakkımızda söylenenler",
+  "des": "Müşterilerimizin hakkımızda söylediklerine kulak verin.",
   "opinion":[
     {
-      "name": "Simonns Hodge",
-      "dig": "CEO, Credito",
+      "name": "Güngör Uludağ",
+      "dig": "Yönetici, Doğuş Sineklik",
       "img": "/assets/images/testimonial/user-thumb-one.jpg",
-      "comment": "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies."
+      "comment": "Aldığım hizmet doğrultusunda şirketimiz adına oluşturdukları PVC maliyet hesaplama ve şirket websitesi sayesinde işimi büyütme yönünde adımlar atmış oldum. İlgileri için çok teşekkür ediyorum."
     },
     {
       "name": "Rekon Montino",

@@ -1,11 +1,11 @@
 {
-  "heading":"LET’S WORK TOGETHER",
+  "heading":"Hadi Birlikte Çalışalım",
   "submitBtn":{
-    "btnText":"Submit Query",
+    "btnText":"Bize Ulaşın",
     "btnLink":"contact"
   },
   "convBtn":{
-    "btnText":"Not Convinced",
+    "btnText":"Projeleri Göster",
     "btnLink":"portfolio"
   }
 }

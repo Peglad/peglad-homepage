@@ -1,5 +1,5 @@
 {
-  "title": "team that makes the difference.",
+  "title": "Farklılık Yaratan Takım",
   "teamMembers":[
     {
       "name": "Sergen Can",
@@ -7,46 +7,42 @@
       "img": "/assets/images/team/team-member-one.jpg",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
           "icon": "linkedin",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/sergen-can-668b08b4/"
         },
         {
           "icon": "instagram",
-          "link": "#"
+          "link": "https://www.instagram.com/srgncnn/"
         }
       ]
     },
     {
-      "name": "MONTINO RIAU",
-      "dig": "Product Manager",
+      "name": "Hasan Hüseyin Yurdagül",
+      "dig": "Yapay Zeka Uzmanı",
       "img": "/assets/images/team/team-member-two.jpg",
       "social":[
         {
           "icon": "medium",
-          "link": "#"
+          "link": "https://medium.com/@bytewaiser"
         },
         {
           "icon": "linkedin",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/bytewaiser"
         },
         {
           "icon": "instagram",
-          "link": "#"
+          "link": "https://www.instagram.com/hhyurdagul/"
         }
       ]
     },
     {
-      "name": "ALEX NAASRI",
-      "dig": "Chief Design Officer",
+      "name": "Salih Uğur",
+      "dig": "Mobil Uygulama Uzmanı",
       "img": "/assets/images/team/team-member-three.jpg",
       "social":[
         {
           "icon": "medium",
-          "link": "#"
+          "link": "https://medium.com/@salihhugurr"
         },
         {
           "icon": "linkedin",
@@ -54,64 +50,33 @@
         },
         {
           "icon": "instagram",
-          "link": "#"
+          "link": "https://www.instagram.com/ugurrsalihh/"
         }
       ]
     },
     {
-      "name": "HONGMAN CHIOA",
-      "dig": "UX Researcher",
+      "name": "Sertan Tok",
+      "dig": "Pazarlama Uzmanı",
       "img": "/assets/images/team/team-member-four.jpg",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
           "icon": "instagram",
-          "link": "#"
+          "link": "https://www.instagram.com/sertantok/"
         }
       ]
     },
     {
-      "name": "SANTIO ANDRESS",
-      "dig": "Content Researcher",
+      "name": "Çağlar Keskin",
+      "dig": "Web Geliştirme Uzmanı",
       "img": "/assets/images/team/team-member-five.jpg",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
           "icon": "linkedin",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/%C3%A7a%C4%9Flar-keskin-6a2696257/"
         },
         {
           "icon": "instagram",
-          "link": "#"
-        }
-      ]
-    },
-    {
-      "name": "RAMESH PAUL",
-      "dig": "Creative Designer",
-      "img": "/assets/images/team/team-member-six.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
+          "link": "https://www.instagram.com/caglarr.keskinn/"
         }
       ]
     }
